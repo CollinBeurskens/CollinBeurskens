@@ -29,9 +29,8 @@ Welcome to my GitHub! I'm a young coder passionate about building awesome projec
  - Discord : @collintje
  - Personal Email : ikbencollin8@gmail.com
  - Telegram : @CollinFSC
- (I'll most likely respond via Discord)
 
-
+ **(I'll most likely respond via Discord)**
  ### 😌 Languages
  - English - Fluent
  - Dutch - Fluent
