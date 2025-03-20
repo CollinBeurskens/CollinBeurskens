@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Collin!  
-[![portfolio](https://img.shields.io/badge/my_portfolio-189?style=for-the-badge&logo=&logoColor=white)](https://sq.ax/8By)
+[![portfolio](https://img.shields.io/badge/my_portfolio-189?style=for-the-badge&logo=&logoColor=white)](https://collinbeurskens.netlify.app/)
 
 ## 🧒 About Me  
 - 🌱 Currently learning **Python, HTML5 and CSS3**  
