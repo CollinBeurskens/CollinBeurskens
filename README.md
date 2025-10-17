@@ -1,9 +1,5 @@
-# 👋 Hey there, I'm Collin!  
-[![portfolio](https://img.shields.io/badge/my_portfolio-189?style=for-the-badge&logo=&logoColor=white)](https://collinbeurskens.netlify.app/)
+![banner](https://github.com/CollinBeurskens/CollinBeurskens/blob/a4f50eecaa04ad5316e8daf5fb9dc537171513c2/assets/hey%2C%20i'm%20collin.png)
 
-## 🧒 About Me  
-- 🌱 Currently learning **Python, HTML5 and CSS3**  
-- 🎮 Love making games & web projects  
-- 🛠️ Exploring open-source and working on cool side projects  
-- 📌 Big fan of **AI, game dev, and creative coding**  
-- 📅 **More then half a decade** of programming experience
+
+## About Me
+I'm a 15 year old, passionate about designing websites - also motion graphic ads, in a *special* way.
