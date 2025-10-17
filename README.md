@@ -3,3 +3,12 @@
 
 ## About Me
 I'm a 15 year old, passionate about designing websites - also motion graphic ads, in a *special* way.
+
+
+---
+
+### Let's connect
+Thinking about contacting? Feel free to contact me using one of these socials below! :
+
+- [Discord](https://discord.com/users/702251170185609297)
+- [Twitter](https://x.com/cptneugene)
