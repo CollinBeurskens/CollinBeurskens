@@ -1,12 +1,10 @@
-[
-  {
-    "id": 1,
-    "title": "No products yet",
-    "category": "",
-    "price_original": 99,
-    "price_current": 99,
-    "discount_percentage": 25,
-    "image": "",
-    "link": ""
-  }
-]
+{
+  "title": "Master Lock Fireproof Safety Safe [Fire Resistant] [Small] - L1200 - For ID Papers, Photos, Small Electronics, Storage Devices",
+  "category": "",
+  "price_original": 79.99,
+  "price_current": 38.64,
+  "discount_percentage": 52,
+  "image": "https://m.media-amazon.com/images/I/81RNNK47iPL._AC_UL320_.jpg",
+  "link": "https://amzn.to/45vzLsH",
+  "description": ""
+}
