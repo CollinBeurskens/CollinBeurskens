@@ -1,8 +1,16 @@
-# Hi there 👋
+# Hi, I'm Collin Beurskens 👋
 
-My name is Collin Beurskens, i'm 15 years old and i love programming.
+I'm a 15-year-old developer with a passion for programming, web development, and building things for the web.
 
-I started programming when i was 10 years old, i created simple scripts like .vbs or .bat.
-Ever since i came across HTML and CSS, i was hooked.
+My programming journey started at the age of 10, when I began experimenting with simple scripts using **VBScript** and **Batch**. Eventually, I discovered HTML and CSS, which sparked my interest in web development.
 
-Now i have studied coding in HTML and CSS for 4 years.
+Over the past 4 years, I've been developing my skills in HTML and CSS, exploring new technologies, and working on projects that allow me to turn ideas into reality.
+
+### What I'm interested in
+- Web development
+- Frontend development
+- UI/UX design
+- Exploring new technologies
+
+### A little more about me
+I'm always looking for new things to learn and new ideas to bring to life. I enjoy experimenting, solving problems, and continuously improving my skills.
